@@ -1,1 +1,4 @@
 - [LearnGitBreanch](https://learngitbranching.js.org/?locale=ru_RU)
+- [Git Ignore](https://tyapk.ru/blog/post/gitignore)
+- [pro git](https://git-scm.com/book/ru/v2)
+- [gitflow workflow](https://www.atlassian.com/ru/git/tutorials/comparing-workflows/gitflow-workflow)
